@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
 :root {
   --color-bg: #232634;
   --color-fg: #C6D0F5;
@@ -82,11 +84,11 @@ body {
 }
 
 .title {
-  font-size: 20px;
+  font-size: 22px;
 }
 
 li {
-  font-size: 16px;
+  font-size: 14px;
   list-style-type: none;
   padding: 5px
 }
