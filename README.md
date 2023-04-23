@@ -1,12 +1,13 @@
 # Startpage
 
-[Live Preview](https://kencx.github.io/startpage/)
+Originally forked from [kencx/startpage](https://github.com/kencx/startpage)
+
+[Live Preview](https://crypticspaghettiyl.github.io/startpage/)
 
 Feel free to fork and make your own changes!
 
 - Font: Fira Code
-- Colorscheme: Gruvbox Dark
-- Cat Gif: [Here](https://twitter.com/avogado6/status/1165595520967954432?s=19)
+- Colorscheme: Catppuccin
 
-![startpage](startpage.gif)
+![startpage](startpage.png)
 
