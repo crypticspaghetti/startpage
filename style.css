@@ -1,12 +1,13 @@
 :root {
-    --color-bg: #282828;
-    --color-fg: #EADBB2;
-    --color-link: #8F9191;
-    --color-link-visited: #668F8B;
-    --color-link-hover: #FA7921 ;
+  --color-bg: #232634;
+  --color-fg: #C6D0F5;
+  --color-link: #8CAAEE;
+  --color-link-visited: #737994;
+  --color-link-hover: #A6D189;
 }
 
-html, body {
+html,
+body {
   background: var(--color-bg);
   color: var(--color-fg);
   font-family: "Fira Code";
@@ -41,6 +42,16 @@ html, body {
 .gif img {
   max-width: 100%;
   max-height: 100%;
+  border-radius: 25px;
+  padding: 4px;
+}
+
+.gif {
+  width: 432px;
+  height: 432px;
+  border-radius: 25px;
+  box-sizing: border-box;
+  background: linear-gradient(to bottom, var(--color-link-hover), var(--color-link));
 }
 
 .head {
